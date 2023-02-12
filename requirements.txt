@@ -31,3 +31,4 @@ svgutils==0.3.4
 ruamel.yaml==0.16.13 # pyup: ignore
 click==8.0.1 # pyup: ignore
 decorator==4.4.2 # pyup: ignore
+ipython>=8.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
