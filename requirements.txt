@@ -2,7 +2,7 @@ Django>=3.1.5
 lxml>=4.6.2
 rsa>=4.7
 biplist>=1.0.3
-requests>=2.25.1
+requests>=2.31.0
 bs4>=0.0.1
 colorlog>=4.7.2
 macholib>=1.14
@@ -32,3 +32,4 @@ ruamel.yaml==0.16.13 # pyup: ignore
 click==8.0.1 # pyup: ignore
 decorator==4.4.2 # pyup: ignore
 semgrep>=1.25.0 # not directly required, pinned by Snyk to avoid a vulnerability
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
